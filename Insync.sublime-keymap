@@ -1,0 +1,12 @@
+[
+    {
+        "keys": ["ctrl+i"], 
+        "command": "insync",
+        "args": {"cmd": "pause"}
+    },
+    {
+        "keys": ["ctrl+shift+i"],
+        "command": "insync",
+        "args": {"cmd": "resume"}
+    },
+]

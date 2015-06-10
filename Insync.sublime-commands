@@ -1,0 +1,12 @@
+[
+    {
+        "caption": "Insync Pause", 
+        "command": "insync",
+        "args": {"cmd": "pause"}
+    },
+    {
+        "caption": "Insync Resume", 
+        "command": "insync",
+        "args": {"cmd": "resume"}
+    },
+]
